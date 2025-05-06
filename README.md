@@ -19,15 +19,15 @@
 
 ### 🛒 Crockery E-Commerce Website  
 An e-commerce website for crockery items with product catalog, shopping cart, and checkout system.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/crockery-ecommerce) *(Replace this with your real repo link)*
+🔗 [GitHub Repository](https://github.com/laiba-ali-dev/crockery-ecommerce)
 
 ### 🍨 Ice Cream Parlour Management System  
 A dynamic website to manage flavors, categories, and customer orders using ASP.NET MVC and SQL Server.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/icecream-parlour) *(Replace this with your real repo link)*
+🔗 [GitHub Repository](https://github.com/laiba-ali-dev/icecream-parlour)
 
 ### 🛡️ Insurance Management System  
 An insurance portal with admin, employee, and user roles for applying, approving, and tracking insurance requests.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/insurance-management) *(Replace this with your real repo link)*
+🔗 [GitHub Repository](https://github.com/laiba-ali-dev/insurance-management)
 
 ---
 
