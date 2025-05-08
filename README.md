@@ -19,7 +19,7 @@
 
 ### 🛒 Crockery E-Commerce Website  
 An e-commerce website for crockery items with product catalog, shopping cart, and checkout system.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/crockery-ecommerce)
+🔗 [GitHub Repository: ](https://github.com/laiba-ali-dev/CrockeryEcommerce-Website)
 
 ### 🍨 Ice Cream Parlour Management System  
 A dynamic website to manage flavors, categories, and customer orders using ASP.NET MVC and SQL Server.  
