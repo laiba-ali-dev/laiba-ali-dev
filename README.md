@@ -23,7 +23,7 @@ An e-commerce website for crockery items with product catalog, shopping cart, an
 
 ### 🍨 Ice Cream Parlour Management System  
 A dynamic website to manage flavors, categories, and customer orders using ASP.NET MVC and SQL Server.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/icecream-parlour)
+🔗 [GitHub Repository](https://github.com/laiba-ali-dev/IcecreamParlour-Website)
 
 ### 🛡️ Insurance Management System  
 An insurance portal with admin, employee, and user roles for applying, approving, and tracking insurance requests.  
