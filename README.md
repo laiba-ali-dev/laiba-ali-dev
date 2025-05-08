@@ -27,7 +27,7 @@ A dynamic website to manage flavors, categories, and customer orders using ASP.N
 
 ### 🛡️ Insurance Management System  
 An insurance portal with admin, employee, and user roles for applying, approving, and tracking insurance requests.  
-🔗 [GitHub Repository](https://github.com/laiba-ali-dev/insurance-management)
+🔗 [GitHub Repository](https://github.com/laiba-ali-dev/InsuranceManagement-portal)
 
 ---
 
